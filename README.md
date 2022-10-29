@@ -3,7 +3,7 @@
 
 PC　右のReleaseから
 
-スマホ　下のReleaseから
+スマホ　下or上のReleaseから
 
 下の〇〇.mcaddon(.mcpack)っていう青い奴をクリックすると、
 ダウンロードできます！
