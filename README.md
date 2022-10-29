@@ -5,7 +5,8 @@ PC　右のReleaseから
 
 スマホ　下のReleaseから
 
-下の〇〇.mcaddonっていう青い奴をクリック
+下の〇〇.mcaddonっていう青い奴をクリックで
+
 　　　　(.mcpack)
 ダウンロードできます！
 
