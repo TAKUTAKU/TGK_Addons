@@ -1,7 +1,8 @@
 # TGK_Addons
 ダウンロードする場合は
 
-PC　右のReleaseから\n
+PC　右のReleaseから
+
 スマホ　下のReleaseから
 
 〇〇.mcaddonって青くなってる奴をクリックしたら
