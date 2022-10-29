@@ -1,4 +1,4 @@
-# TGK_Addons
+# ダウンロードの際
 ダウンロードする場合は
 
 PC　右のReleaseから
@@ -28,3 +28,7 @@ It is strictly forbidden to use them for any purpose other than Minecraft.
 I made it myself. Please refrain from saying that you made it yourself, such as redistribution.
 
 **********************************************************
+
+# 作品
+[ReLogin Addon](https://github.com/TAKUTAKU/ReLogin-Addon.git)
+[TeamChat Addon](https://github.com/TAKUTAKU/TeamChat-Addon.git)
