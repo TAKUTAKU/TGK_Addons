@@ -32,4 +32,4 @@ I made it myself. Please refrain from saying that you made it yourself, such as 
 # 作品
 ### [ReLogin Addon](https://github.com/TAKUTAKU/ReLogin-Addon.git)
 ### [TeamChat Addon](https://github.com/TAKUTAKU/TeamChat-Addon.git)
-### [Changename Addon](https://github.com/TAKUTAKU/ChangeName-Addon.git)
+### [ChangeName Addon](https://github.com/TAKUTAKU/ChangeName-Addon.git)
